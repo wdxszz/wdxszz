@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @wdxszz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 无敌学生组织官方网站  
+欢迎来到这个网站😎**这里是无敌学生组织的官方网站。**  
 
-<!---
-wdxszz/wdxszz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+我们的学校:
+- 合肥市桂花园学校教育集团和园校区
+  
+我们的成员数:  
+- 人数不到三万
+  
+我们的死对头:
+- 王恺睿   
+
+王恺瑞的网站:
+- [wkr](wdxszz.github.io/wkr). 
